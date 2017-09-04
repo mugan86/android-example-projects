@@ -30,4 +30,4 @@ Demo video: [![](https://www.youtube.com/yts/img/favicon_48-vfl1s0rGh.png)](http
 Repository: 
 
 * Stable version (1.1): https://github.com/mugan86/currency-android-kotlin/tree/master
-* Develop version (1.x): https://github.com/mugan86/currency-android-kotlin/tree/kotlin
+* Develop version (1.x): https://github.com/mugan86/currency-android-kotlin/tree/develop
