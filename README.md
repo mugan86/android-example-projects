@@ -28,5 +28,5 @@ Download App Free: [![](https://a.fsdn.com/allura/p/goopydesktop/icon?1435677519
 Demo video: [![](https://www.youtube.com/yts/img/favicon_48-vfl1s0rGh.png)](https://youtu.be/QPhSzQOi0N0)
 
 Repository: 
-* Stable version (1.1): [Link (master)](https://github.com/mugan86/currency-android-kotlin/tree/master)
+* Stable version (1.2.1) (Update 2017/09/22): [Link (master)](https://github.com/mugan86/currency-android-kotlin/tree/master)
 * Develop version (1.x): [Link (develop)](https://github.com/mugan86/currency-android-kotlin/tree/develop)
