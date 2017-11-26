@@ -37,5 +37,6 @@ Example in which it is shown how we can obtain our location through a service an
 
 Each change of location will be drawn on the map
 
-Kotlin (Update in 25/11/2017): https://github.com/mugan86/android-gps-tracker-new-api/tree/kotlin
-Java (Last update in 11/2016): https://github.com/mugan86/android-gps-tracker-new-api/tree/master
+Repository:
+* Kotlin (Update in 25/11/2017): https://github.com/mugan86/android-gps-tracker-new-api/tree/kotlin
+* Java (Last update in 11/2016): https://github.com/mugan86/android-gps-tracker-new-api/tree/master
