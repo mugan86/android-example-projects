@@ -30,3 +30,12 @@ Demo video: [![](https://www.youtube.com/yts/img/favicon_48-vfl1s0rGh.png)](http
 Repository: 
 * Stable version (1.2.1) (Update 2017/09/22): [Link (master)](https://github.com/mugan86/currency-android-kotlin/tree/master)
 * Develop version (1.x): [Link (develop)](https://github.com/mugan86/currency-android-kotlin/tree/develop)
+
+## GPS Tracker API example with maps using new API ##
+
+Example in which it is shown how we can obtain our location through a service and as having this location we can draw it on a map.
+
+Each change of location will be drawn on the map
+
+Kotlin (Update in 25/11/2017): https://github.com/mugan86/android-gps-tracker-new-api/tree/kotlin
+Java (Last update in 11/2016): https://github.com/mugan86/android-gps-tracker-new-api/tree/master
