@@ -1,4 +1,4 @@
-# Examples Projects diretory (2017/11/26)
+# Examples Projects diretory (2018/01/15)
 In this repository collect my Android Apps and libraries repositories
 
 ## Google Maps Example with Cluster in API 26 (Update in 2017/12/26):
