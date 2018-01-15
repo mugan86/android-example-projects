@@ -1,7 +1,7 @@
 # Examples Projects diretory (2017/11/26)
 In this repository collect my Android Apps and libraries repositories
 
-## Google Maps Example with Cluster in API 26:
+## Google Maps Example with Cluster in API 26 (Update in 2017/12/26):
 
 Example in Java and Kotlin to show example app with Google Maps activity that contain markers with cluster.
 
@@ -29,7 +29,7 @@ Demo video: [![](https://www.youtube.com/yts/img/favicon_48-vfl1s0rGh.png)](http
 
 Repository: 
 * Stable version (1.2.1) (Update 2017/09/22): [Link (master)](https://github.com/mugan86/currency-android-kotlin/tree/master)
-* Develop version (1.x): [Link (develop)](https://github.com/mugan86/currency-android-kotlin/tree/develop)
+* Develop version (1.x): [Link (develop)](https://github.com/mugan86/currency-android-kotlin/tree/develop) (Apply refactor code, clean architecture, mvp and dagger dependency injections)
 
 ## GPS Tracker API example with maps using new API ##
 
@@ -38,5 +38,17 @@ Example in which it is shown how we can obtain our location through a service an
 Each change of location will be drawn on the map
 
 Repository:
-* Kotlin (Update in 25/11/2017): https://github.com/mugan86/android-gps-tracker-new-api/tree/kotlin
+* Kotlin (Update in 06/01/2018): https://github.com/mugan86/android-gps-tracker-new-api/tree/kotlin
 * Java (Last update in 11/2016): https://github.com/mugan86/android-gps-tracker-new-api/tree/master
+
+## Kotlin for Android Developers Online Course by Antonio Leiva ##
+
+Progress: 100%.
+Final result of the course.
+
+More info: https://academy.antonioleiva.com/
+Twitter (Antonio Leiva): https://twitter.com/lime_cl
+Blog: https://antonioleiva.com/
+
+Repository:
+* https://github.com/mugan86/kotlin-android-online-course
