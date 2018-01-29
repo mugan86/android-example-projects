@@ -1,5 +1,9 @@
-# Examples Projects diretory (2018/01/15)
-In this repository collect my Android Apps and libraries repositories
+# Examples Projects diretory (2018/01/29)
+In this repository collect my Android Apps and libraries repositories (with library urls)
+
+## Future projects ##
+
+* Create Image Utils Library (CircleImageView, TouchImageView, image extensions,..) :construction_worker:
 
 ## Google Maps Example with Cluster in API 26 (Update in 2017/12/26):
 
@@ -13,6 +17,7 @@ Example in Java and Kotlin to show example app with Google Maps activity that co
 Library with example to use i18n in our apps.
 
 * Kotlin: https://github.com/mugan86/translate-ui-android-kotlin-library
+* Use library our Android Projects: https://bintray.com/amugika/maven/i18n
 
 ## Currency conversor app
 
