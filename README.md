@@ -17,7 +17,7 @@ Example in Java and Kotlin to show example app with Google Maps activity that co
 Library with example to use i18n in our apps.
 
 * Kotlin: https://github.com/mugan86/translate-ui-android-kotlin-library
-* Use library our Android Projects: https://bintray.com/amugika/maven/i18n
+* Use library our Android Projects: https://bintray.com/amugika/maven/i18n/view/readmore
 
 ## Currency conversor app
 
