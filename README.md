@@ -1,4 +1,4 @@
-# Examples Projects diretory (2018/01/29)
+# Examples Projects diretory (2018/02/08)
 In this repository collect my Android Apps and libraries repositories (with library urls)
 
 ## Future projects ##
@@ -12,7 +12,21 @@ Example in Java and Kotlin to show example app with Google Maps activity that co
 * Java: https://github.com/mugan86/google-maps-cluster-api-26/tree/master
 * Kotlin: https://github.com/mugan86/google-maps-cluster-api-26/tree/kotlin
 
-## Internalization (i18n) language manage example app.
+## Custom Font Text View Library
+
+Library to add custom font very easy!!
+
+* Kotlin: https://github.com/mugan86/custom-font-textview
+* Use library our Android Projects: https://bintray.com/amugika/maven/custom-font-textview
+
+## Chronometer Widget with ms in Android Kotlin
+
+Chronometer Widget with Ms to use in Android with Kotlin
+
+* Kotlin: https://github.com/mugan86/android-chronometer-with-ms
+* Use library our Android Projects: https://bintray.com/amugika/maven/chronometer-with-ms
+
+## Internazionalization (i18n) language manage example app.
 
 Library with example to use i18n in our apps.
 
